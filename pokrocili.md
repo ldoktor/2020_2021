@@ -27,7 +27,7 @@ Cílem kurzu není vzdělat hotového programátora, ale rozvíjet logické
 myšlení, algoritmizaci a jiné vlastnosti, které se dětem budou hodit
 při studiu jakéhokoliv oboru.
 
-Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
+Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina
 
@@ -70,7 +70,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili-1-03-code-org-small.jpg" style="height:85px">
 </a>
 
-* Videokonference [návod na připojení](../../media/jitsi-navod.mp4)
+* Videokonference [návod na připojení](../media/jitsi-navod.mp4)
   * Dokončení lekce 3 - Bludiště
   * Uvedení do lekce 4 - Umělec
     * Vždy čtěte zadání
@@ -85,7 +85,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
 
 ## 4. hodina
 
-* Videokonference [návod na připojení](../../media/jitsi-navod.mp4)
+* Videokonference [návod na připojení](../media/jitsi-navod.mp4)
   * Dokončení lekce 4 - Umělec
     * Opakuji, nezapomeňte číst zadání a případně použít nápovědu (žárovka nalevo od textu zadání)
   * Lehký úvod do cyklů/opakování
@@ -104,7 +104,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili-1-05-dort1-small.jpg" style="height:85px">
 </a>
 
-* Videokonference [návod na připojení](../../media/jitsi-navod.mp4)
+* Videokonference [návod na připojení](../media/jitsi-navod.mp4)
   * Řešení k domácímu úkolu [[pdf](pokrocili-1-05-peceni-reseni.pdf), [odt](pokrocili-1-05-peceni-reseni.odt)]
     * Doporučuji projít s dětmi, je důležité uvědomit si rozdíl mezi opakováním jedné instrukce a opakování sledu několika instrukcí
   * www.code.org - lekce 6 - Bludiště cykly
@@ -173,7 +173,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili-1-09-robomise-small.jpg" style="height:85px">
 </a>
 
-* Videokonference [návod na připojení](../../media/jitsi-navod.mp4)
+* Videokonference [návod na připojení](../media/jitsi-navod.mp4)
   * <a href="https://robomise.cz">https://robomise.cz</a>
     * Kvůli stávkujícím serverům Scratche jsme si udělali krátkou odbočku a vyzkoušeli jsme robomisi
     * Děti si mohou vyzkoušet všechny úrovně až po "L3 - Ukliď si cestu"
@@ -188,7 +188,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili-1-10-scratch-small.jpg" style="height:85px">
 </a>
 
-* Videokonference [návod na připojení](../../media/jitsi-navod.mp4)
+* Videokonference [návod na připojení](../media/jitsi-navod.mp4)
   * <a href="https://scratch.mit.edu/projects/editor/">Scratch</a> - hra "chytni kočku"
     * Návod pro osvěžení si paměti ve formátech: [pdf](pokrocili-1-10-kocka.pdf) či [odt](pokrocili-1-10-kocka.odt)
     * <a href="https://scratch.mit.edu/projects/470669556/">Odkaz na vytvořenou hru</a>
@@ -202,7 +202,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili-2-01-chytani-ovoce1-small.jpg" style="height:85px">
 </a>
 
-* Videokonference [návod na připojení](../../media/jitsi-navod.mp4)
+* Videokonference [návod na připojení](../media/jitsi-navod.mp4)
   * <a href="https://scratch.mit.edu/projects/editor/">Scratch</a> - hra "chytání padajícího ovoce I."
     * Návod pro osvěžení si paměti ve formátech: [pdf](pokrocili-2-01-chytani-ovoce-v2.pdf) či [odt](pokrocili-2-01-chytani-ovoce-v2.odt)
     * Stihli jsme jednoduchý pohyb vlevo a vpravo s pohybem spritu a generování ovoce náhodně po celé ploše
@@ -215,7 +215,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili-2-02-chytani-ovoce1-small.jpg" style="height:85px">
 </a>
 
-* Videokonference [návod na připojení](../../media/jitsi-navod.mp4)
+* Videokonference [návod na připojení](../media/jitsi-navod.mp4)
   * <a href="https://scratch.mit.edu/projects/editor/">Scratch</a> - hra "chytání padajícího ovoce II."
     * Návod pro osvěžení si paměti ve formátech: [pdf](pokrocili-2-01-chytani-ovoce-v2.pdf) či [odt](pokrocili-2-01-chytani-ovoce-v2.odt)
     * Přidali jsme si další kostýmy a využili jsme bloček "náhodné číslo od XXX do YYY" abychom náhodně měnili kostýmy.
@@ -227,7 +227,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
 
 ## 13. hodina
 
-* Videokonference [návod na připojení](../../media/jitsi-navod.mp4)
+* Videokonference [návod na připojení](../media/jitsi-navod.mp4)
   * <a href="https://scratch.mit.edu/projects/editor/">Scratch</a> - hra "chytání padajícího ovoce III."
     * Znovu jsme si prošli kód, podmínky jsou prostě fuška
     * Přidali jsme do hry zvuky při chycení a pádu ovoce (ach ty podmínky)
@@ -245,7 +245,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili-2-04-codecombat-small.jpg" style="height:85px">
 </a>
 
-* Videokonference [návod na připojení](../../media/jitsi-navod.mp4)
+* Videokonference [návod na připojení](../media/jitsi-navod.mp4)
   * <a href="https://codecombat.com/play/dungeon">Code Combat</a>
     * Registrace do studentského účtu bez emailu (možno hrát bez uložení bez registrace)
     * Vysvětlení prostředí:
@@ -278,7 +278,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
     <img align="right" src="pokrocili-2-05-codecombat-small.jpg" style="height:85px">
 </a>
 
-* Videokonference [návod na připojení](../../media/talky-navod.mp4)
+* Videokonference [návod na připojení](../media/talky-navod.mp4)
   * <a href="https://codecombat.com/play/dungeon">Code Combat</a>
     * Pokračování z minula
     * seznam příkazů <a href="pokrocili-2-04-codecombat-prikazy.jpg">zde</a>
@@ -287,7 +287,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
 
 ## 16. hodina
 
-* Videokonference [návod na připojení](../../media/talky-navod.mp4)
+* Videokonference [návod na připojení](../media/talky-navod.mp4)
   * Na oživení jsme se pokusili projít minovým polem
     * zadání ve formátech: <a href="pokrocili-2-06-miny.ods">ods</a>, <a href="pokrocili-2-06-miny.xlsx">xlsx</a> a <a href="pokrocili-2-06-miny.pdf">pdf</a>
     * <a href="pokrocili-2-06-miny-reseni.pdf">ukázkové řešení</a>
@@ -297,7 +297,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
 
 ## 17. hodina
 
-* Videokonference [návod na připojení](../../media/talky-navod.mp4)
+* Videokonference [návod na připojení](../media/talky-navod.mp4)
   * <a href="https://codecombat.com/play/dungeon">Code Combat</a>
     * Pokračování z minula (kola 3 - 15)
     * Zakončení látky, děti si mohou pokračovat dle libosti doma
@@ -473,4 +473,4 @@ Kurz bude organizován a veden [Lukášem Doktorem](../../lectors/ldoktor.md)
 * Na závěr ukázka Micro:bit autíčka z krabičky od bonboniéry (snad postavíme příští rok)
 
 
-<img align="right" src="../../media/robots_bottom.jpg">
+<img align="right" src="../media/robots_bottom.jpg">
